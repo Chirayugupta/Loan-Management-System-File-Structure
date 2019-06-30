@@ -1,0 +1,2 @@
+# Loan-Management-System-File-Structure
+The Loan Management System is a file structure system. In this file is created using loan related details. This uses variable length fields with fixed length records. Later, after adding records into the file, operation like reading the details, searching the record, deleting the record, and modifying a record operation can be performed on the contents of file.
